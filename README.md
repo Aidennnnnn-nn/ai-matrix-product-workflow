@@ -21,7 +21,7 @@ Skill 同时提供产品边界、文件归档、需求池、PRD 追踪、HTML-fi
 ## 安装
 
 ```bash
-git clone https://github.com/Aidennnnnn-nn/ai-matrix-product-workflow.git \\
+git clone https://github.com/Aidennnnnn-nn/ai-matrix-product-workflow.git \
   ~/.codex/skills/ai-matrix-product-workflow
 ```
 
@@ -67,3 +67,4 @@ ai-matrix-product-workflow/
 - 支持 Skills 的 Codex 环境。
 - Figma 阶段需要已配置并可用的 Figma 官方 MCP。
 - 若环境中同时提供 PRD、Figma 或 HTML 原型 Skill，本 Skill 会按阶段调用它们，但产品边界和门禁仍以本 Skill 为准。
+
