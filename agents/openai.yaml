@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI MATRIX 产品交付工作流"
+  short_description: "按阶段门禁完成 AI MATRIX 的 PRD、HTML 原型与 Figma 交付"
+  brand_color: "#FF323A"
+  default_prompt: "使用 $ai-matrix-product-workflow 梳理需求归属，并按 PRD、HTML、Figma 阶段门禁完成产品交付。"
